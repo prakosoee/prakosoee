@@ -1,21 +1,112 @@
-# 💫 About Me:
-My name is Muhammad Elang Prakoso, I specialize in PHP, Laravel, and I enjoy working on both back-end development. I believe in writing clean, maintainable code and following best practices to ensure the longevity of my projects
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Muhammad+Elang+Prakoso+%F0%9F%91%8B;Programmer+Biasa+%F0%9F%92%BB;Cuma+Bisa+Laravel+%F0%9F%9A%80;But+Always+Learning+Something+New+%F0%9F%8C%B1" alt="Typing SVG" />
+</div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="coding gif"/>
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/prakosoee_?igsh=OGxudzk3NHcyaW51) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-elang-prakoso-b84a41274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elangprakoso088@gmail.com) 
+## 🚀 About Me
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prakosoee&theme=darcula&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=prakosoee&theme=darcula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prakosoee&theme=darcula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+```php
+$developerBuilder = new DeveloperBuilder();
+
+$developer = $developerBuilder->setName("Muhammad Elang Prakoso")
+    ->setRole("Full Stack Developer")
+    ->setLocation("Indonesia 🇮🇩")
+    ->setLanguages(["PHP", "JavaScript", "TypeScript"])
+    ->setFrameworks(["Laravel"])
+    ->setCurrentFocus("Building scalable web applications")
+    ->setFunFact("I debug with dd() and I'm not ashamed! 😄")
+    ->build();
+```
+
+<div align="center">
+  
+## 🌐 Let's Connect!
+
+<a href="https://www.instagram.com/prakosoee_?igsh=OGxudzk3NHcyaW51">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&animate=pulse"/>
+</a>
+<a href="https://www.linkedin.com/in/muhammad-elang-prakoso-b84a41274">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:elangprakoso088@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=prakosoee&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Tech Arsenal
+
+<div align="center">
+
+### 🔥 Languages
+<img src="https://skillicons.dev/icons?i=php,js,ts" />
+
+### ⚡ Frameworks & Libraries  
+<img src="https://skillicons.dev/icons?i=laravel,tailwind,bootstrap" />
+
+### 🛠️ Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,docker,mysql,postgresql,redis,nginx" />
+
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prakosoee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakosoee&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakosoee&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF"/>
+</div>
+
+## 💡 Random Dev Wisdom
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" />
+</div>
+
+---
+
+## 🎵 Currently Jamming To
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USERNAME&unique=true" alt="Spotify recently played" />
+</div>
+
+---
+
+## 🐍 Watch My Contributions Get Eaten!
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/prakosoee/prakosoee/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+  
+## 📫 Let's Build Something Amazing Together!
+
+*"The best way to predict the future is to create it." - Peter Drucker*
+
+<img src="https://komarev.com/ghpvc/?username=prakosoee&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/prakosoee?label=Followers&style=flat-square&color=0e75b6" alt="GitHub followers" />
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+**⭐ From [prakosoee](https://github.com/prakosoee) with ❤️**
+
+</div>
